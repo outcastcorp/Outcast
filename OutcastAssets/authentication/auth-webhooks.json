@@ -1,0 +1,8 @@
+{
+    "DirectMessageWebhookID": "",
+    "DirectMessageWebhookToken": "",
+    "ErrorWebhookID": "",
+    "ErrorWebhookToken": "",
+    "SuggestionWebhookID": "",
+    "SuggestionWebhookToken": ""
+}
