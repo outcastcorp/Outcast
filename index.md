@@ -1,5 +1,21 @@
 [![Outcast-Logo](/Assets/covers.png)](https://docs.outcast.link)
-You can use the [editor on GitHub](https://github.com/outcastcorp/Outcast/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div align="center">
+  <br />
+  <p>
+    [![Outcast-Logo](/Assets/covers.png)](https://docs.outcast.link)
+  </p>
+  <br />
+  <p>
+    <a href="https://outcastcorp.us/discord"><img src="https://img.shields.io/discord/222078108977594368?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
+    <a href="https://travis-ci.org/OutcastCorp/Outcast"><img src="https://travis-ci.org/discordjs/discord.js.svg" alt="Build status" /></a>
+    <a href="https://david-dm.org/OutcastCorp/Outcast"><img src="https://img.shields.io/david/discordjs/discord.js.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href="https://www.patreon.com/outcastcorp_outcast"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
+  </p>
+  <p>
+    <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="NPM info" /></a>
+  </p>
+</div>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
