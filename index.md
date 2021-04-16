@@ -12,7 +12,7 @@
     <a href="https://www.patreon.com/outcastcorp_outcast"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
   </p>
   <p>
-    <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="NPM info" /></a>
+    <a href="https://nodei.co/npm/placeholder/"><img src="https://nodei.co/npm/placeholder.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
 </div>
 
