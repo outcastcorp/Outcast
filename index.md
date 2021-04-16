@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+[![Outcast-Logo](/Assets/covers.png)](https://docs.outcast.link)
+<div align="center">
+  <p>
+    <a href="https://travis-ci.org/OutcastCorp/Outcast"><img src="https://travis-ci.org/discordjs/discord.js.svg" alt="Build status" /></a>
+    <a href="https://david-dm.org/OutcastCorp/Outcast"><img src="https://img.shields.io/david/discordjs/discord.js.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href="https://www.patreon.com/outcastcorp_outcast"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
+  </p>
+  <p>
+    <a href="https://nodei.co/npm/placeholder/"><img src="https://nodei.co/npm/placeholder.png?downloads=true&stars=true" alt="NPM info" /></a>
+  </p>
+</div>
 
-You can use the [editor on GitHub](https://github.com/outcastcorp/Outcast/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
