@@ -6,7 +6,6 @@
   </p>
   <br />
   <p>
-    <a href="https://outcastcorp.us/discord"><img src="https://img.shields.io/discord/222078108977594368?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
     <a href="https://travis-ci.org/OutcastCorp/Outcast"><img src="https://travis-ci.org/discordjs/discord.js.svg" alt="Build status" /></a>
     <a href="https://david-dm.org/OutcastCorp/Outcast"><img src="https://img.shields.io/david/discordjs/discord.js.svg?maxAge=3600" alt="Dependencies" /></a>
     <a href="https://www.patreon.com/outcastcorp_outcast"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
