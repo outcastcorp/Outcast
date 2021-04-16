@@ -1,1 +1,88 @@
-
+- name: Bot
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+- name: Developer
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+- name: Fun
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+- name: Furry
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: Economy
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: Image
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: Moderation
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: NSFW
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: Roleplay
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: Staff
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: Utility
+  files:
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
+   - name: PlaceHolder
+   - path: .md
