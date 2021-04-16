@@ -1,10 +1,5 @@
 [![Outcast-Logo](/Assets/covers.png)](https://docs.outcast.link)
 <div align="center">
-  <br />
-  <p>
-    [![Outcast-Logo](/Assets/covers.png)](https://docs.outcast.link)
-  </p>
-  <br />
   <p>
     <a href="https://travis-ci.org/OutcastCorp/Outcast"><img src="https://travis-ci.org/discordjs/discord.js.svg" alt="Build status" /></a>
     <a href="https://david-dm.org/OutcastCorp/Outcast"><img src="https://img.shields.io/david/discordjs/discord.js.svg?maxAge=3600" alt="Dependencies" /></a>
