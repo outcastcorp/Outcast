@@ -86,7 +86,7 @@ Outcast is both useful and good for loads of fun all in one bot when starting a 
 ### cat
 * **Required Bot Perms:** `EMBED_LINKS`, `ATTATCH_FILES`
 * **Description:** Look at random cat pics, courtesy of random.cat.
-* **Aliases:** catpic, kitty, kittypic, kitten
+* **Aliases:** `catpic`, `kitty`, `kittypic`, `kitten`
 * **Usage:** `Outcast_cat`
 
 ### dog
@@ -150,8 +150,8 @@ Outcast is both useful and good for loads of fun all in one bot when starting a 
 ### chris
 * **Required Bot Perms:** `EMBED_LINKS`, `ATTACH_FILES`
 * **Description:** Chris is hilarious. Pics courtesy of FurryBot's API.
-* **Aliases:** hornypolarbear, typicalchris
-* * **Usage:** `Outcast_chris`
+* **Aliases:** `hornypolarbear`, `typicalchris`
+* **Usage:** `Outcast_chris`
 
 ### e621
 * **Required Bot Perms:** `EMBED_LINKS`, `ATTACH_FILES`
