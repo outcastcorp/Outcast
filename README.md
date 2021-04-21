@@ -9,12 +9,12 @@
 ## **Version:** v4.0.0 Alpha
 
 ### **Chanegelog:**
-* Redis replaces quick.db in order to sync guild prefix data and blacklist data between Outcast, Outcast Alpha, Outcast Pro, and Outcast Corporation Holo and in order to pave the way for future updates, such as more guild settings, logging, moderation action logging, events, and more badges
+* Redis replaces quick.db in order to sync guild prefix data & blacklist data between Outcast, Outcast Alpha, Outcast Pro, & Outcast Corporation Holo & in order to pave the way for future updates, such as more guild settings, logging, moderation action logging, events, & more badges
 * Fixed all commands so that the bot checks if it has the required permissions beor
 
 
 
-Outcast is both useful and good for loads of fun all in one bot when starting a server,complete with a customizeable prefix. From moderation and utility, to fun and NSFW, we've got you covered.
+Outcast is both useful & good for loads of fun all in one bot when starting a server,complete with a customizeable prefix. From moderation & utility, to fun & NSFW, we've got you covered.
 
 
 
@@ -29,7 +29,7 @@ Outcast is both useful and good for loads of fun all in one bot when starting a 
 
 ## ping
 * **Required Bot Perms:** `EMBED_LINKS`
-* **Description:** Check Outcast's, our server's, and Discord's ping in one command.
+* **Description:** Check Outcast's, our server's, & Discord's ping in one command.
 * **Aliases:** `botping`, `discordping`, `pingv3`, `serverping`
 * **Usage:** `Outcast_ping`
 
@@ -121,7 +121,7 @@ Outcast is both useful and good for loads of fun all in one bot when starting a 
 
 
 ## Moderation:
-**Cooldown:** All commands in this category have a 5 second cooldown to prevent command spam/abuse and for quality assurance purposes.
+**Cooldown:** All commands in this category have a 5 second cooldown to prevent command spam/abuse & for quality assurance purposes unless otherwise stated.
 
 ### ban
 * **Required User Permissions:** `BAN_MEMBERS`
@@ -134,7 +134,7 @@ Outcast is both useful and good for loads of fun all in one bot when starting a 
 * **Required Bot Permissions:** `KICK_MEMBERS`, `EMBED_LINKS`
 * **Description:** Kick users from the server.
 * **Aliases:** boot
-* **Usage:** `Outcast_kick @Ash.#7028 {Reason}`
+* **Usage:** `Outcast_kick @AshenRed#7028 Trolling with Administrator on an Alternative Account`
 
 ### purge
 * **Required User Permissions:** `MANAGE_MESSAGES`
@@ -145,7 +145,7 @@ Outcast is both useful and good for loads of fun all in one bot when starting a 
 
 
 ## NSFW
-**Cooldowns:** All commands in this category have a 5 second cooldown to prevent command spam/abuse and for quality assurance purposes.
+**Cooldowns:** All commands in this category have a 5 second cooldown to prevent command spam/abuse & for quality assurance purposes unless otherwise stated.
 
 ### chris
 * **Required Bot Perms:** `EMBED_LINKS`, `ATTACH_FILES`
@@ -168,7 +168,7 @@ Outcast is both useful and good for loads of fun all in one bot when starting a 
 
 
 ## Utility
-**Cooldowns:** All commands in this category have a 5 second cooldown to prevent command spam/abuse & for quality assurance purposes.
+**Cooldowns:** All commands in this category have a 5 second cooldown to prevent command spam/abuse & for quality assurance purposes unless otherwise stated.
 
 ### avatar
 * **Required Bot Perms:** `EMBED_LINKS`, `ATTACH_FILES`
