@@ -1,0 +1,23 @@
+{
+  "name": "outcast-v3-alpha",
+  "version": "3.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevXML#9543",
+  "license": "ISC",
+  "dependencies": {
+    "bfdapi.js": "^2.0.1",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.3.1",
+    "minimalist": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.2",
+    "random-animals-api": "^1.2.0",
+    "systeminformation": "^4.28.1",
+    "yiff": "^2.0.2",
+    "ytdl-core": "^3.2.2"
+  }
+}
