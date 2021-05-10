@@ -2,7 +2,7 @@
 
 # Outcast v3 LTS
 
-## IN AN EFFORT TO SUPPORT A CASE-INSENSITIVE PREFIX, THE PREFIX ON ALL VERSIONS OF OUTCAST WILL BE CHANGED FROM `Outcast` and `Outcast_` to `outcast_` BY DEFAULT FOR A SHORT PERIOD OF TIME.
+## IN AN EFFORT TO SUPPORT A CASE-INSENSITIVE PREFIX, THE PREFIX ON ALL VERSIONS OF OUTCAST HIGHER THAN v3 WILL BE CHANGED FROM `Outcast` and `Outcast_` to `outcast_` BY DEFAULT FOR A SHORT PERIOD OF TIME.
 ## **Version:** v3.2.1 Release
 
 Outcast is both useful and good for loads of fun all in one bot when starting a server,complete with a customizeable prefix. From moderation and utility, to fun and NSFW, we've got you covered.
