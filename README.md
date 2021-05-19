@@ -11,7 +11,7 @@
 
 
 
-Outcast is both useful & good for loads of fun all in one bot when starting a server,complete with a customizeable prefix. From moderation & utility, to fun & NSFW, we've got you covered.
+Outcast is both useful & good for loads of fun all in one bot when starting a server, complete with a customizeable prefix. From moderation & utility, to fun & NSFW, we've got you covered.
 
 
 
