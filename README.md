@@ -6,8 +6,9 @@
 ## **Version:** v4.0.0 Alpha
 
 ### **Chanegelog:**
-* Redis replaces quick.db in order to sync guild prefix data & blacklist data between Outcast, Outcast Alpha, Outcast Pro, & Outcast Corporation Holo & in order to pave the way for future updates, such as more guild settings, logging, moderation action logging, events, & more badges (backend)
-* Fixed all commands so that the bot checks if it has the required permissions before
+* Redis replaces quick.db in order to sync guild prefix data & blacklist data between Outcast, Outcast Alpha, Outcast Pro, & Outcast Corporation Holo & in order to pave the way for future updates, such as more guild settings, logging, moderation action logging, events, & more badges, as well as due to an issue with quick.db that causes it not to install on Ubuntu. All data was manually transcribed. (Backend)
+* Fixed all commands so that the bot checks if it has the required permissions BEFORE even reading the first line of the command file.
+* Added <UPDATE_THIS> commands
 
 
 
